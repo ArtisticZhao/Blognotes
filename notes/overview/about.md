@@ -1,8 +1,11 @@
 ---
-title: "About big brother and little brother's world"
+title: "About big brother and little brother's playground"
 permalink: /notes/overview/about
-summary: 希望这里能是“梦开始的地方”，这些年来，兜兜转转，时常彷徨，觉得时光飞逝，碌碌无为。一次偶然的机会，笔者突然意识到，文字或许是对抗迷惘的一剂良药，也许当我再次迷茫，可以回来看看我记录下的点点滴滴，是我的成长与青春……
+author: Artistic Zhao
+show_author_profile: true
 ---
+
+summary: 希望这里能是“梦开始的地方”，这些年来，兜兜转转，时常彷徨，觉得时光飞逝，碌碌无为。一次偶然的机会，笔者突然意识到，文字或许是对抗迷惘的一剂良药，也许当我再次迷茫，可以回来看看我记录下的点点滴滴，是我的成长与青春……
 
 ## 我是谁
 
