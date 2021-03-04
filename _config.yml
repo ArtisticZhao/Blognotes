@@ -200,6 +200,8 @@ exclude:
   - /screenshots
   - /test
   - /vendor
+  - site.tar.gz
+  - upload.sh
 
 # collections_dir: notes
 collections:
