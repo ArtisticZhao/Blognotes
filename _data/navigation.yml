@@ -1,6 +1,6 @@
 header:
-  - title:	❤️
-    url:	/cnt
+  - title:      ❤️
+    url:        /cnt
   - title:      随笔
     url:        /
   - title:      笔记
@@ -10,6 +10,8 @@ header:
     url:        /archive.html
   - title:      关于
     url:        /notes/overview/about
+  - title:      Trilium
+    url:        /lilac_trilium
   - title:      GitHub
     url:        https://github.com/ArtisticZhao
 
