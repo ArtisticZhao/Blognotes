@@ -9,6 +9,7 @@ More important, this blognotes also share with my girl. We will update our sweet
 
 ## Theme
 [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme)
+[love story](https://github.com/xfbxfbxfb/love)
 
 ## Folders
 `_posts` I put the blogs in this folder, in the folder the articles' filename must have a date.

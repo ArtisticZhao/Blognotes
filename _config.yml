@@ -196,6 +196,7 @@ exclude:
   - package-lock.json
   - package.json
   - /docker
+  - Dockerfile.dev
   - /node_modules
   - /screenshots
   - /test
