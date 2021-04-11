@@ -9,8 +9,8 @@ More important, this blognotes also share with my girl. We will update our sweet
 
 ## Theme
 
-[TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme)
-[love story](https://github.com/xfbxfbxfb/love)
+- [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme)
+- [love story](https://github.com/xfbxfbxfb/love)
 
 ## Folders
 
@@ -30,3 +30,18 @@ Keep a note may complex.
 
 - You need put the Markdown file to the `notes` folder in the right category.
 - Add the url into the `navigation.yml`, which located '_data/navigation.yml'
+
+### generate static webpages
+
+```shell
+bundle exec jekyll s
+```
+
+### upload webpages to server
+
+```shell
+./upload.sh
+```
+
+This shell script will tar the `_site` folder, and upload to my VPS via scp (the scp use ssh key to identify).
+And execute extract command to modify file to nginx website folder.
