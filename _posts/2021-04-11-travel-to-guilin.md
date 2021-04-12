@@ -5,6 +5,7 @@ article_header:
   type: cover
   image:
     src: https://i.loli.net/2021/04/11/iuWYAMHGj4LOX9c.jpg
+pageview: true
 ---
 
 这是一次，没有过充分的计划，几乎可以算作是一场说走就走的旅行。
